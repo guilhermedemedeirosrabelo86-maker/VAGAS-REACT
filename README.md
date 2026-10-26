@@ -1,16 +1,36 @@
-# React + Vite
+# OpenBoard – Quadro de vagas em React
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Projeto desenvolvido nas aulas de **Front-end da faculdade**. O site é construído aula a aula, e cada commit registra o que foi feito naquela aula.
 
-Currently, two official plugins are available:
+> 🚧 **Em andamento:** o projeto evolui a cada aula. Acompanhe pelo [histórico de commits](https://github.com/guilhermedemedeirosrabelo86-maker/VAGAS-REACT/commits/main).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Sobre o projeto
 
-## React Compiler
+O OpenBoard é um quadro de vagas de emprego: empresas publicam vagas e candidatos encontram oportunidades.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## O que já foi feito
 
-## Expanding the Oxlint configuration
+- Estrutura inicial do projeto com React e Vite
+- Cabeçalho com acesso e botão para publicar vaga
+- Rodapé com links de navegação
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## Tecnologias
+
+React · Vite · JavaScript · CSS · ESLint
+
+## Como rodar
+
+Precisa do [Node.js](https://nodejs.org/) instalado.
+
+```bash
+git clone https://github.com/guilhermedemedeirosrabelo86-maker/VAGAS-REACT.git
+cd VAGAS-REACT
+npm install
+npm run dev
+```
+
+O site abre em http://localhost:5173.
+
+## Autor
+
+Feito por **Guilherme Rabelo**: [LinkedIn](https://www.linkedin.com/in/guilherme-de-medeiros-rabelo-rabelo-807226395/)
